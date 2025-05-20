@@ -3,7 +3,6 @@
 
 Un generador de contraseñas simple, potente y personalizable escrito en **Python**. Crea contraseñas seguras y aleatorias desde la terminal, con opciones para definir la longitud y el tipo de caracteres.
 
-![Captura de Pantalla](https://github.com/m4zpan1/PasswordGenerator/blob/main/pwd1.png)
 
 ---
 
