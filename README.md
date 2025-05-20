@@ -8,11 +8,11 @@ Un generador de contraseñas simple, potente y personalizable escrito en **Pytho
 
 ## 🚀 Características
 
-- ✅ Contraseñas seguras y aleatorias  
-- 🛠 Personalización de longitud  
-- 🔤 Selección de tipos de caracteres (letras, números, símbolos)  
-- 💻 Interfaz por línea de comandos simple  
-- 🧩 Ideal para mejorar tu seguridad digital  
+-  Contraseñas seguras y aleatorias  
+-  Personalización de longitud  
+-  Selección de tipos de caracteres (letras, números, símbolos)  
+-  Interfaz por línea de comandos simple  
+-  Ideal para mejorar tu seguridad digital  
 
 ---
 
@@ -49,7 +49,6 @@ Sigue las instrucciones en pantalla para generar contraseñas a tu medida.
 
 ---
 
-## 📸 Captura
 
 ![Captura de uso](https://github.com/m4zpan1/PasswordGenerator/blob/main/pwd1.png)
 
