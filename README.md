@@ -12,11 +12,13 @@ git clone https://github.com/tu-usuario/tu-repo.git
 cd tu-repo
 ```
 
+
 2. Dale permisos de ejecución al archivo:
 
 ```bash
 chmod +x PwdGenerator.py
 ```
+
 
 3. Ejecuta el generador:
 
@@ -24,6 +26,8 @@ chmod +x PwdGenerator.py
 python3 PwdGenerator.py
 ```
 
-![captura-login](https://raw.githubusercontent.com/m4zpan1/DockerLabs_Resolutions/refs/heads/main/RECURSOS/injection%203.png)
+4. ¡Ya puedes usarlo!
+
+![captura-login](https://github.com/m4zpan1/PasswordGenerator/blob/main/pwd1.png)
 
 
