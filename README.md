@@ -8,8 +8,7 @@ Tener Python 3 instalado en tu sistema
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/m4zpan1/PasswordGenerator.git
 ```
 
 
