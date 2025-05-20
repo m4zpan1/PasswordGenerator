@@ -1,7 +1,7 @@
 # 🔐 PasswordGenerator
-<p>Este es un sencillo pero potente generador de contraseñas escrito en Python. Permite crear contraseñas seguras y aleatorias directamente desde la terminal, personalizables según longitud y tipo de caracteres.</p>
+Este es un sencillo pero potente generador de contraseñas escrito en Python. Permite crear contraseñas seguras y aleatorias directamente desde la terminal, personalizables según longitud y tipo de caracteres.
 
-# Requisitos:
+Requisitos:
 Tener Python 3 instalado en tu sistema
 
 # Instalación y uso:
